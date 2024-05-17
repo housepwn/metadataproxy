@@ -1,7 +1,7 @@
 # License: MIT
 # Upstream url: http://gunicorn.org/
 # Use: For wsgi running
-gunicorn==19.9.0
+gunicorn==22.0.0
 
 # License: MIT
 # Upstream url: http://www.gevent.org/
